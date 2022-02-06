@@ -2,6 +2,9 @@
 
 ## About me:
 
+
+![1](https://user-images.githubusercontent.com/53949337/152693496-7668f9e1-9018-4e0e-ab43-e153f35d552c.png)
+
 I'm a software developer engineer, with a degree in industrial engineering. I'm apassionate about techonology, specialy in backend side technologies. I've got experience working with Java with Spring Boot, Python and Typescript, I also worked with frontend technologies like Angular.
 
 - 🔭 I’m currently working as a Software Developer at  <a href="https://www.zabud.com.co/">Zabud Technologies</a>.
@@ -23,6 +26,7 @@ I'm a software developer engineer, with a degree in industrial engineering. I'm 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
 </p>
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
