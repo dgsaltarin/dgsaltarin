@@ -7,8 +7,8 @@
 
 I'm a software developer engineer, with a degree in industrial engineering. I'm apassionate about techonology, specialy in backend side technologies. I've got experience working with Java with Spring Boot, Python and Typescript, I also worked with frontend technologies like Angular.
 
-- 🔭 I’m currently working as a Software Developer at  <a href="https://www.zabud.com.co/">Zabud Technologies</a>.
-- 🌱 I’m currently learning Kotlin 
+- 🔭 I’m currently working as a Software Engineer at  <a href="(https://www.farmu.com.co/)">Farmu</a>.
+- 🌱 I’m currently learning Go 
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
